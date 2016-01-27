@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="401e2d02-f3ce-4da7-aac6-c64af33cef0d" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Ex_Files_Nodejs_EssT/Exercise Files/Ch05/05_04/start/directory.js" afterPath="$PROJECT_DIR$/Ex_Files_Nodejs_EssT/Exercise Files/Ch05/05_04/start/directory.js" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Ex_Files_Nodejs_EssT/Exercise Files/Ch05/05_05/start/lib/notes.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Ex_Files_Nodejs_EssT/Exercise Files/Ch05/05_05/start/lib/project-config.js" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Ex_Files_Nodejs_EssT/Exercise Files/Ch05/05_05/start/rename.js" afterPath="$PROJECT_DIR$/Ex_Files_Nodejs_EssT/Exercise Files/Ch05/05_05/start/rename.js" />
     </list>
     <ignored path="NodeLynda.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -24,31 +25,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="directory.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Ex_Files_Nodejs_EssT/Exercise Files/Ch05/05_04/start/directory.js">
+      <file leaf-file-name="remove.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Ex_Files_Nodejs_EssT/Exercise Files/Ch05/05_05/start/remove.js">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Campaign4610.json" pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/Desktop/Campaign4610.json">
+      <file leaf-file-name="rename.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Ex_Files_Nodejs_EssT/Exercise Files/Ch05/05_05/start/rename.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="83.69231">
-              <caret line="25" column="15" selection-start-line="25" selection-start-column="10" selection-end-line="25" selection-end-column="15" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Form830.json" pinned="false" current-in-tab="true">
-        <entry file="file://$USER_HOME$/Desktop/Form830.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-2.1995163">
-              <caret line="22" column="3" selection-start-line="22" selection-start-column="3" selection-end-line="22" selection-end-column="3" />
+            <state vertical-scroll-proportion="0.22793296">
+              <caret line="12" column="2" selection-start-line="12" selection-start-column="2" selection-end-line="12" selection-end-column="2" />
               <folding />
             </state>
           </provider>
@@ -84,6 +75,7 @@
         <option value="$PROJECT_DIR$/promptPerson.js" />
         <option value="$PROJECT_DIR$/directory.js" />
         <option value="$PROJECT_DIR$/Ex_Files_Nodejs_EssT/Exercise Files/Ch05/05_04/start/directory.js" />
+        <option value="$PROJECT_DIR$/Ex_Files_Nodejs_EssT/Exercise Files/Ch05/05_05/start/rename.js" />
       </list>
     </option>
   </component>
@@ -93,10 +85,10 @@
     <detection-done>true</detection-done>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
+    <option name="x" value="1912" />
     <option name="y" value="-8" />
     <option name="width" value="1936" />
-    <option name="height" value="1014" />
+    <option name="height" value="1056" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
@@ -219,7 +211,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="05_04" />
+              <option name="myItemId" value="05_05" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -249,7 +241,41 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="05_04" />
+              <option name="myItemId" value="05_05" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="start" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lib" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="NodeLynda" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="NodeLynda" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Ex_Files_Nodejs_EssT" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Exercise Files" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Ch05" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="05_05" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -338,7 +364,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1014" extended-state="6" />
+    <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20758693" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -401,8 +427,24 @@
     </entry>
     <entry file="file://$USER_HOME$/Desktop/Form830.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-2.1995163">
+        <state vertical-scroll-proportion="69.96154">
           <caret line="22" column="3" selection-start-line="22" selection-start-column="3" selection-end-line="22" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ex_Files_Nodejs_EssT/Exercise Files/Ch05/05_05/start/remove.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ex_Files_Nodejs_EssT/Exercise Files/Ch05/05_05/start/rename.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.22793296">
+          <caret line="12" column="2" selection-start-line="12" selection-start-column="2" selection-end-line="12" selection-end-column="2" />
           <folding />
         </state>
       </provider>
